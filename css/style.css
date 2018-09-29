@@ -1,1 +1,15 @@
-nul 
+body{
+    background-image: url("../images/train-background.jpg");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+#content{
+    background-color: rgba(0, 0, 0, .5);
+    
+}
+
+table{
+    margin-top: 20px;
+}
